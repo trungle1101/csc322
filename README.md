@@ -13,6 +13,6 @@ The newest PyOpenGL no longer includes GLUT so that it'll be a import error when
 [Calculate vertex star coordinate](https://www.101computing.net/pentagram-challenge/pentagram-coordinates/)
 
 ###Result
-<img src="images/exampleCode.png?raw=true" alt="example_output" width="500"/>
-<img src="images/VNflag.png?raw=true" alt="example_output" width="1200"/>
-<img src="images/example.png?raw=true" alt="example_output" width="1200"/>
+<img src="images/exampleCode.PNG?raw=true" alt="example_output" width="500"/>
+<img src="images/VNflag.PNG?raw=true" alt="example_output" width="1200"/>
+<img src="images/example.PNG?raw=true" alt="example_output" width="1200"/>
