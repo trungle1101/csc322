@@ -1,0 +1,5 @@
+The image 4.1 is rendered with highest value of metalic and no rough feature of sphere. The sphere reflect the environment as a mirror
+
+The image 4.2 is also rendered with fully metalic but 0.2 roughless. The sphere reflect the environment with a blurred likeness
+
+In the image 4.3, the plane setting is the same as the first image's sphere, full metalic and no roughless. Sphere parameter in this image is tunned to be less metalic and a little roughless.
