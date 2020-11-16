@@ -1,0 +1,1 @@
+The object surface which can reveive the light from the light source will have 0 pixel value (totally dark)

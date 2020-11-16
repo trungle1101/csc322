@@ -1,0 +1,4 @@
+Subdivision add more polygon into the object, more complexity for object structure. 
+Smooth shading help us render smoother. We can't see distinct polygons anymore. But if structure is not small enough, we still see some egde in the transfer area
+
+Strategy is using smooth shading and increasing the number(lever) of subdivision one by one to see some how we can observe no egde in the transfer area. 

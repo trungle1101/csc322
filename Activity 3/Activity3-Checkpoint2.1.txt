@@ -1,0 +1,4 @@
+1000W:(x,y) = (500,300)        	RGB = 0.41139
+250W: (x,y) = (500,300)		RGB = 0.12302
+
+Pixel value in higher light power rendered image is higher

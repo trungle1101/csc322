@@ -1,0 +1,1 @@
+It makes object become smoother, remove egdes between polygons. But we still see small conner in the dark and light transfer area

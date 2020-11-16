@@ -1,0 +1,1 @@
+Sphere in 2.5 is brighter and its shadow is blurred compare with 1.5

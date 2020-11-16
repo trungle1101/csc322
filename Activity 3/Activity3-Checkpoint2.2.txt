@@ -1,0 +1,1 @@
+light power higher will make object surface which is on light source direct have higher pixel value (brighter)
