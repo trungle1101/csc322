@@ -1,0 +1,1 @@
+I scale my imported 3D model to be 0.1 and the camera 5 times bigger. And then change the location of the camera so that it in the appriate scene to render the whole object.
